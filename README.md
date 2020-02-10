@@ -1,7 +1,7 @@
 # meal_app
 
 ## Meal Details
-![Meal Details](https://user-images.githubusercontent.com/25183920/74128308-ec58fd80-4baa-11ea-9adc-684f15f57843.png)
+![Meal Details](https://user-images.githubusercontent.com/25183920/74130953-4e1c6600-4bb1-11ea-84b5-1bae01a428dc.png)
 
 ---
 ## Meals Screen
